@@ -4,7 +4,7 @@
 // @match       https://geometrydash.com/*
 // @grant       none
 // @version     1.0
-// @author      ItzFlowerGMD
+// @author      0x0A2C2A
 // @description Allows you to modify the level data to import your own levels instead of Stereo Madness!
 // @run-at      document-start
 // ==/UserScript==
